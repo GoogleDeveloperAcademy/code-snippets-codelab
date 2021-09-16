@@ -13,6 +13,6 @@
 # limitations under the License.
 
 # [START sample_hello_world]
-# This returns "Hello, world"
+# This prints "Hello, world"
 print("Hello, world")
 # [END sample_hello_world]
